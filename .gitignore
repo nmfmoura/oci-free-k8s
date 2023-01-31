@@ -1,0 +1,4 @@
+*.pem
+kube-config
+.DS_Store
+.config
